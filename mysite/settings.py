@@ -25,7 +25,7 @@ SECRET_KEY = '(scbmz70j#3y@+*(f8s=arqagm+j4mow@5nee__)l13zvtc4r='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'orient.pythonanywhere.com']
 
 
 # Application definition
